@@ -5,8 +5,6 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 import './style.css';
 import { Container } from 'react-bootstrap';
 import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
-
 const TopMenu = () => (
   <div className="px-0 justify-content-center pb-2" id="topMenu">
   <div className="navbar">
